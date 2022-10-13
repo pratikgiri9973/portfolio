@@ -7,6 +7,34 @@
     "background_color": "#F00",
     "theme_color": "#0FF",
     "display": "standalone",
+    "shortcuts": [
+        {
+            "name": "learn about us",
+            "short_name": "about",
+            "description": "lorem lipsum",
+            "url": "./about.html",
+            "icons": [
+                {
+                    "src": "./assets/assets/images/SKILLHUB-192-192.png",
+                    "type": "image/png",
+                    "sizes": "192x192"
+                }
+            ]
+        },
+        {
+            "name": "get in touch",
+            "short_name": "contact",
+            "description": "lorem lipsum",
+            "url": "./contact.html",
+            "icons": [
+                {
+                    "src": "./assets/assets/images/SKILLHUB-192-192.png",
+                    "type": "image/png",
+                    "sizes": "192x192"
+                }
+            ]
+        }
+    ],
     "icons": [
         {
             "src": "./assets/assets/images/SKILLHUB-48-48.png",
