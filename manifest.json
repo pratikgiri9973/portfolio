@@ -1,0 +1,37 @@
+{
+    "name": "PRATIK portfolio",
+    "short_name": "PORTFOLIO",
+    "description": "pratik cha portfolio.having experince as frontend devops has a 8 month internship at skillhub which located in aurangabad mh",
+    "orientation": "portrait",
+    "start_url": "/portfolio",
+    "background_color": "#F00",
+    "theme_color": "#0FF",
+    "display": "standalone",
+    "icons": [
+        {
+            "src": "./assets/assets/images/SKILLHUB-48-48.png",
+            "type": "image/png",
+            "sizes": "48x48"
+        },
+        {
+            "src": "./assets/assets/images/SKILLHUB-72-72.png",
+            "type": "image/png",
+            "sizes": "72x72"
+        },
+        {
+            "src": "./assets/assets/images/SKILLHUB-96-96.png",
+            "type": "image/png",
+            "sizes": "96x96"
+        },
+        {
+            "src": "./assets/assets/images/SKILLHUB-144-144.png",
+            "type": "image/png",
+            "sizes": "144x144"
+        },
+        {
+            "src": "./assets/assets/images/SKILLHUB-192-192.png",
+            "type": "image/png",
+            "sizes": "192x192"
+        }
+    ]
+}
